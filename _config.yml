@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: APP NAME
-email: appname@gmail.com
-pwalink: "https://app.DOMAIN.com/"
-googleplaylink: "https://play.google.com/store/apps/details?id=com.DOMAIN.app.twa"
-appstorelink: "/?ref=requestappstore"
+title: David Gomez
+email: davidgomezjim@gmail.com
+pwalink: #"https://app.DOMAIN.com/"
+googleplaylink: #"https://play.google.com/store/apps/details?id=com.DOMAIN.app.twa"
+appstorelink: #"/?ref=requestappstore"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -99,16 +99,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "APP NAME"
-  avatar: "/assets/images/portrait_black.png"
-  bio: "My awesome APP constrained to a sentence or two goes here."
+  name: "David Gomez"
+  avatar: "assets/images/david_gomez.webp"
+  bio: "I provide sales expertise and execution to start-ups."
   links:
-    - label: "Web App"
-      icon: "fas fa-fw fa-mobile-alt"
-      url: "https://app.DOMAIN.com/"
-    - label: "Google Play"
-      icon: "fab fa-fw fa-google-play"
-      url: "https://play.google.com/store/apps/details?id=com.DOMAIN.app.twa"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:davidgomezjim@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ingenierodavidgomez/"
     # - label: "Apple Store"
     #   icon: "fab fa-fw fa-apple"
     #   url: "https://"
@@ -126,10 +126,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/realdavidgomez"
     - label: "Sitemap"
-      icon: "fab fa-fw fa-sitemap"
-      url: "https://www.DOMAIN.com/sitemap.xml"
+      icon: "fas fa-fw fa-sitemap"
+      url: "/sitemap.xml"
     - label: #"GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -150,7 +150,7 @@ defaults:
       share: true
       search: true
       related: true
-      classes: ""
+      classes: "theme-dark"
       header:
         overlay_filter: linear-gradient(to right bottom,rgba(0, 153, 255,0.8), rgba(255, 51, 133,0.5))
   # _pages
@@ -160,7 +160,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      classes: ""
+      classes: "theme-dark"
 
 category_archive:
   type: liquid

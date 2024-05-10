@@ -1,7 +1,7 @@
 main:
-  - title: "Features"
-    url: /#features
+  - title: "Services"
+    url: /#services
   - title: "Blog"
     url: /blog/
-  - title: "Download"
-    url: /#download
+  - title: "Contact"
+    url: /#contact
