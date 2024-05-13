@@ -1,36 +1,71 @@
 ---
 layout: single
-title: "Aprobar el Professional Engineer exam (PE) y ser ingeniero en Estados Unidos"
+title: "Aprobar el Fundamentals of Engineering (FE) y ser Engineer in Training (EIT) en California"
 categories: blog
 tags:
   - Policy
   - Business
   - Spanish
 classes: wide theme-dark
-date: 2015-04-06 10:46:57 +0100
+date: 2015-04-05 10:46:57 +0100
 excerpt: Para ejercer como ingeniero en Estados Unidos y poder firmar proyectos, es necesario disponer de la certificación Professional Engineer (PE).
 header:
-  overlay_image: https://images.unsplash.com/photo-1493476523860-a6de6ce1b0c3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-  teaser: https://images.unsplash.com/photo-1493476523860-a6de6ce1b0c3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  overlay_image: https://images.unsplash.com/photo-1580974852861-c381510bc98a?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  teaser: https://images.unsplash.com/photo-1580974852861-c381510bc98a?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
-# Aprobar el Fundamentals of Engineering (FE) y ser Engineer in Training (EIT) en California
+# Aprobar el Professional Engineer exam (PE) y ser ingeniero en Estados Unidos
 
-![Engineering](https://images.unsplash.com/photo-1493476523860-a6de6ce1b0c3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Engineering](https://images.unsplash.com/photo-1580974852861-c381510bc98a?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Para ejercer como ingeniero en Estados Unidos y poder firmar proyectos, es necesario disponer de la certificación Professional Engineer (PE). Ver esta entrada para más información: [Trabajar como ingeniero en Estados Unidos](https://www.energyoutofthebox.com/trabajar-como-ingeniero-en-estados-unidos/)
 
-El primer obstáculo para conseguir la licencia, es aprobar el examen de Fundamentals of Engineering (FE), que capacita para convertirse en Engineer-In-Training (EIT).  
-El registro se hace a través de la [página web de NCEES](http://ncees.org/exams/fe-exam/), que sigue las instrucciones del [Board correspondiente](http://www.bpelsg.ca.gov/applicants/eit_lsitapp.shtml). Es necesario rellenar un formulario donde se pregunta por la educación, aunque no es necesario justificarla con títulos o certificados de notas. Hasta hace poco, el examen era de 8 horas y se realizaba en papel, pudiendo realizarse sólo durante dos días al año, normalmente en Abril y en Octubre. Desde el 2014, el formato ha cambiado a 6 horas (con 25 minutos de descanso), empleándose un ordenador para contestar las preguntas (computer-based) y con examinación continua, es decir, se puede realizar cuando se desee. No obstante, es necesario acudir a determinados centros con ordenadores preparados para ello. La tasa de NCEES en 2014 ascendía a 225$.
+El registro para el examen de PE es algo más tedioso. Aparte de haber aprobado el FE, hay que justificar ciertos años de experiencia válida. En California se exige un mínimo de 6 años, aunque los años de estudios, si se han realizado en un programa certificado por ABET, se convalidan hasta 2 años. El resto hay que justificarlo a través de cartas de referencia ([Engagement Record and Reference Forms](http://www.bpelsg.ca.gov/pubs/forms/perefsfrm.pdf)) que han de rellenar y firmar las personas que han supervisado o trabajado con el solicitante. Son necesarias un mínimo de cuatro cartas distintas, y se consideran válidas sólo si son relevantes y van firmadas en sobre cerrado y sellado. No es necesario que todos los firmantes sean a su vez PE registrados, si el país o las circunstancias donde se han realizado los proyectos no exigían ese requisito, por lo que, en principio, son válidas las referencias extranjeras. No obstante, sí que es necesario que se hayan realizado trabajos en EEUU y bajo la supervisión de un PE. Existen Estados y especialidades como la Civil, donde sí se exige que todas las referencias sean PE y de la misma disciplina. Las cartas de referencia siguen un formulario donde hay que explicar el tipo de proyecto y las actividades realizadas por el solicitante.
 
-El examen consiste en 110 preguntas de respuesta múltiple, con cuatro opciones de las cuales sólo hay una correcta. No se restan puntos por las respuestas mal contestadas, pero es necesario contestar correctamente más del 75% aproximadamente. El examen se ofrece en siete especialidades (FE Chemical, FE Civil, FE Electrical and Computer, FE Environmental, FE Industrial, FE Mechanical y FE Other Disciplines) sobre las que versan las preguntas, con una parte común a todas. Se puede elegir cualquiera de ellas, aunque no sea la especialidad que se haya estudiado en la carrera o la disciplina a la que se desee posteriormente optar en el PE. La más generalista es la de FE Other Disciplines, que es la que se recomienda si ha pasado mucho tiempo desde el fin de los estudios o si el programa universitario era muy generalista.
+Aunque NCEES es quien gestiona y administra el examen, la aplicación para ser admitido hay que hacerla directamente al [Board correspondiente](http://www.bpelsg.ca.gov/applicants/appintrope.shtml). Hay dos fechas para hacer el examen, en Abril y Octubre, y la documentación necesaria hay que presentarla, por tanto, algunos meses antes para su revisión. Dicha documentación consta de:
 
-La dificultad del examen se asemeja al nivel que se adquiere en segundo de carrera en una universidad española. Sólo se permite el uso de un formulario que se proporciona en el examen y que [puede ser consultado en NCEES](http://ncees.org/exams/study-materials/download-fe-supplied-reference-handbook/); y una calculadora, entre los modelos permitidos (científica, no programable). El examen es muy práctico y orientado a la aplicación de fórmulas que no es necesario demostrar. No se pregunta por conceptos abstractos ni demostraciones de teoremas, siendo, en general, de un nivel bastante asequible. La tasa de aprobados ronda el 70%. El mayor reto es la gestión del tiempo por el gran número de preguntas. Aunque se puede utilizar el sistema de unidades inglés o US customary (pulgadas, Fahrenheit, libras…) la mayor parte de las preguntas son en Sistema Internacional.
+- Un formulario a completar.
+- El pago de las tasas para el Board (125$) mediante cheque.
+- Las cuatro o más cartas de referencia (Engagement Record and Reference Forms).
+- Un certificado de notas de la carrera en inglés, sellado y en sobre cerrado. No es necesario que la traducción sea jurada.
+- Hoja de respuestas a un pequeño examen preliminar que se puede hacer en casa y con libro abierto (take-home examination). Este pequeño examen consta de 25 preguntas de respuesta múltiple y versa sobre la legislación que aplica a la profesión de ingeniería en California y que es el Professional Engineers Act (Business and Professions Code sections 6700-6799) y el Board Rules (Title 16, California Code of Regulations sections 400-476). Si este pequeño examen no se aprueba, se ha de repetir para poder acceder al PE.
+- Si el solicitante ha sido condenado por algún delito, la documentación oficial de la sentencia.
+- Dos cartas prefranqueadas y con la dirección postal del solicitante, que serán usadas por el Board para notificar, primero, la recepción de la documentación y, segundo, la aceptación o rechazo para la admisión al examen de PE.
 
-La referencia básica y suficiente para prepararlo es el libro [FE Review Manual: Rapid Preparation for the Fundamentals of Engineering Exam](http://www.amazon.com/gp/product/1591263336/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591263336&linkCode=as2&tag=eneoutofthebo-20&linkId=7LIK3XN4OBPO5CGQ) escrito por Michael R. Lindeburg, PE, de la editorial PPI. Contiene todos los capítulos de teoría así como una enorme colección de problemas resueltos, de dificultad superior a los del examen real. Además, existen manuales de la misma editorial particularizados para las distintas disciplinas; y es recomendable las colecciones de exámenes de práctica que comercializa la propia NCEES, con dificultad similar a la del examen real. Se estima que se requieren unos tres meses de estudio o unas 150 horas.
+![PE-Cartas](https://web.archive.org/web/20190321211523im_/http://www.energyoutofthebox.energyeurope.info/wp-content/uploads/2015/01/PE-Cartas-1024x363.jpg)
 
-Una vez que completado el registro y pagadas las tasas en NCEES, se recibe la autorización del examen y las instrucciones para realizarlo. El día del examen es necesario presentar un documento de identificación (pasaporte, driver license) que coincida exactamente con los datos del registro (hay que tener precaución con los nombre compuestos, uso de eñes, etc). Los resultados del examen en papel se conocían en un plazo de dos meses, aunque con la nueva modalidad electrónica, se ha reducido a 10 días. El resultado se muestra en el portal de NCEES donde se hizo el registro, con la claves del solicitante, informando sólo de sí se ha aprobado, no especificando la nota o los fallos, salvo en los suspensos.
+Aproximadamente lleva un mes que el Board revise toda la documentación. Una vez que se permite al solicitante hacer el examen, tiene que registrarse en NCEES para seleccionar el sitio y pagar las tasas por el examen (350$). NCEES comprueba con el Board que efectivamente cumple con todos los requisitos para poder ser admitido.
 
-Una vez aprobado el examen, se puede solicitar al Board un certificado oficial que reconoce a la persona como Engineer-In-Training (EIT), previo pago de una tasa de 50$ y del envío de una solicitud.
+![Approved](https://web.archive.org/web/20190321211523im_/http://www.energyoutofthebox.energyeurope.info/wp-content/uploads/2015/01/Approved.jpg)
 
-Continúa leyendo: [Aprobar el Professional Engineer exam (PE) y ser ingeniero en Estados Unidos](https://web.archive.org/web/20190321211512/http://www.energyoutofthebox.com/?p=598)
+El examen de PE, que es en papel, dura 8 horas separadas en dos sesiones de 4 horas, con una hora de descanso. En cada una, hay 40 preguntas con 4 respuestas, siendo sólo una válida y sin penalización por errores. Se contestan a mano rellenando huecos en una hoja de lectura automática. Los exámenes son específicos y distintos por especialidad. Además, en el caso Mechanical, Electrical y Civil, hay que elegir una subespecialidad para la segunda sesión. En el caso Mechanical existen tres opciones: HVAC and Refrigeration, Mechanical Systems and Materials y Thermal and Fluids Systems. Esta última se considera la más asequible, puesto que la mayor necesidad de cálculo numérico del tipo de problemas (termodinámica, mecánica de fluidos…), resulta en problemas más sencillos para poder ser abordados en un tiempo razonable. Es un examen a libro abierto donde se puede utilizar cualquier material, aunque se imponen algunas restricciones como no poder llevar hojas sueltas o escribir en los materiales durante el examen. Las calculadoras permitidas son científicas pero no programables, entre una lista de modelos admitidos, al igual que el FE. Es recomendable el uso de regla para mejor visualización de diagramas complejos como el de Mollier o el psicrométrico.
+
+El material de referencia es nuevamente los libros de Michael R. Lindeburg, de la editorial PPI. En el caso de la especialidad mecánica son [Mechanical Engineering Reference Manual for the PE Exam](http://www.amazon.com/gp/product/1591264146/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591264146&linkCode=as2&tag=eneoutofthebo-20&linkId=2HO4IMLKSSJTUQ3T), que contiene la teoría, y [Practice Problems for the Mechanical Engineering PE Exam](http://www.amazon.com/gp/offer-listing/1591264154/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591264154&linkCode=am2&tag=eneoutofthebo-20&linkId=7BBJ6EFD6S4P2BIP), que contiene gran cantidad de problemas resueltos. El libro de teoría se organiza en 76 capítulos de los que 65 entran para el examen. Contiene prácticamente la totalidad de la información, tablas de datos, gráficos y formulas necesarios. Dado el gran tamaño del libro, se recomienda etiquetar aquellas páginas con la formulas más frecuentes, para su rápido acceso. En el examen PE Mechanical, los temas tratados son mecánica de fluidos, termodinámica, ciclos de potencia, HVAC, estática y dinámica, materiales, sistemas de control, economía (matemáticas financieras) y ética. Las preguntas abarcan todas las disciplinas mencionadas y, en este caso, a diferencia del FE, la mayor parte de los problemas se plantean con unidades anglosajonas o US customary.
+
+Aparte, existen otras colecciones de problemas de la misma editorial PPI y [problemas ejemplo de NCEES](http://ncees.org/exams/pe-exam/), que se recomiendan dado que el examen es muy práctico. Este examen es algo más exigente y complejo que el FE, aunque los problemas son meras aplicaciones de las fórmulas del libro. El nivel corresponde a tercero o cuarto de carrera en España. Se estima que se requiere unos 4 meses de estudio o unas 200 horas. Existen también academias de preparación y cursos online. La tasa de aprobados ronda el 70%.
+
+Un foro magnífico donde se puede conversar con otros aspirantes e ingenieros ya licenciados es [Engineering boards](http://engineerboards.com/), donde se pueden resolver dudas prácticas.
+
+Los resultados tardan alrededor de dos meses y nuevamente aparecen en el portal del solicitante de NCEES. Días más tarde se recibe una carta del Board con el título oficial de Professional Engineer y el número de licencia. A partir de ahí, es necesario adquirir un sello para estampar con el nombre y dicho número, y renovar las tasas cada dos años (115$). La [licencia se puede consultar en la propia página del Board](http://www.bpelsg.ca.gov/consumers/lic_lookup.shtml), donde viene el historial de todas las acciones disciplinarias o quejas que se hayan presentado contra el ingeniero.
+
+![PE-Title](https://web.archive.org/web/20190321211523im_/http://www.energyoutofthebox.energyeurope.info/wp-content/uploads/2015/01/PE-Title-300x234.jpg)
+
+En resumen, la licencia de ingeniero en EEUU trata de garantizar la protección del consumidor, en un país con gran heterogeneidad en la educación, sin títulos universitarios oficiales y con ingenieros procedentes de todas las partes del mundo. La certificación PE, representa un sello de calidad profesional y de responsabilidad civil en la práctica de la profesión de la ingeniería.
+
+![PE-Sello](https://web.archive.org/web/20190321211523im_/http://www.energyoutofthebox.energyeurope.info/wp-content/uploads/2015/01/PE-Sello.jpg)
+
+Consulta la serie completa:
+
+- [Aprobar el Fundamentals of Engineering (FE) y ser Engineer in Training (EIT) en California](https://energyoutofthebox.com/aprobar-el-fundamentals-of-engineering-fe-y-ser-engineer-in-training-eit/)
+- [Trabajar como ingeniero en Estados Unidos](https://www.energyoutofthebox.com/trabajar-como-ingeniero-en-estados-unidos/)
+
+**Referencias**
+
+- _National Society of Professional Engineers._ www.nspe.org
+- _Texas Board of Professional Engineers._ www.tbpe.state.tx.us
+- _California Board of Professional Engineers._ www.pels.ca.gov
+- _Accreditation Board for Engineering and Technology._ www.abet.org
+- _National Council of Examiners for Engineering and Surveying._ www.ncees.org
+- _Editorial PPI_ www.ppi2pass.com
+- _Professional Engineers Act_ (Business and Professions Code sections 6700-6799)
+- _Board Rules_ (Title 16, California Code of Regulations sections 400-476)

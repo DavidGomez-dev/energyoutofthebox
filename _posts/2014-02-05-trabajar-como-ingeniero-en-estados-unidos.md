@@ -10,13 +10,13 @@ classes: wide theme-dark
 date: 2014-02-05 10:46:57 +0100
 excerpt: La profesión de la ingeniería en **EEUU** es sustancialmente diferente a España u otros países latinoamericanos.
 header:
-  overlay_image: https://unsplash.com/photos/grayscale-photography-of-man-facing-mechanical-machine-9Prj6M-JAaA
-  teaser: https://unsplash.com/photos/grayscale-photography-of-man-facing-mechanical-machine-9Prj6M-JAaA
+  overlay_image: https://images.unsplash.com/photo-1576666735065-b24beb27b939?q=80&w=2021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+  teaser: https://images.unsplash.com/photo-1576666735065-b24beb27b939?q=80&w=2021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 # Trabajar como ingeniero en Estados Unidos
 
-![Engineering](https://unsplash.com/photos/grayscale-photography-of-man-facing-mechanical-machine-9Prj6M-JAaA)
+![Engineering](https://images.unsplash.com/photo-1576666735065-b24beb27b939?q=80&w=2021&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 La profesión de la ingeniería en **EEUU** es sustancialmente diferente a España u otros países latinoamericanos. Los requisitos para ejercer como ingeniero son distintos ya que se necesita una 'licencia' para poder firmar proyectos. Dichas licencias son concedidas por las Administraciones de los Estados y por tanto no existen Colegios profesionales como en España. Tampoco es necesario el visado de los proyectos, ya que la licencia valida o garantiza que el ingeniero que lo firma es competente, ya que además asume toda la responsabilidad civil y penal por ello.
 
