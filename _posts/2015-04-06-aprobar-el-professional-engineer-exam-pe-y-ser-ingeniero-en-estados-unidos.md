@@ -8,7 +8,7 @@ tags:
   - Spanish
 classes: wide theme-dark
 date: 2015-04-05 10:46:57 +0100
-excerpt: Para ejercer como ingeniero en Estados Unidos y poder firmar proyectos, es necesario disponer de la certificación Professional Engineer (PE).
+excerpt: El registro para el examen de PE es algo más tedioso. Aparte de haber aprobado el FE, hay que justificar ciertos años de experiencia válida. En California se exige un mínimo de 6 años, aunque los años de estudios, si se han realizado en un programa certificado por ABET, se convalidan hasta 2 años.
 header:
   overlay_image: https://images.unsplash.com/photo-1580974852861-c381510bc98a?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
   teaser: https://images.unsplash.com/photo-1580974852861-c381510bc98a?q=80&w=1984&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D

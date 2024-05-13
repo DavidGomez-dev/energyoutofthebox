@@ -8,7 +8,7 @@ tags:
   - Solar
 classes: wide theme-dark
 date: 2014-05-20 10:46:57 +0100
-excerpt: All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this.
+excerpt: olar power in the US continues breaking records every year. In 2013, 4,751MW of photovoltaic power (PV) were installed, the highest yearly figure so far and up 41% over 2012.
 header:
   overlay_image: https://web.archive.org/web/20210414050958im_/http://www.energyoutofthebox.com/wp-content/uploads/2014/05/cSolana-Abengoa.jpg
   teaser: https://web.archive.org/web/20210414050958im_/http://www.energyoutofthebox.com/wp-content/uploads/2014/05/cSolana-Abengoa.jpg
