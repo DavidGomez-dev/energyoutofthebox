@@ -11,7 +11,7 @@ tags:
   - English
 classes: wide theme-dark
 date: 2012-05-28 10:46:57 +0100
-excerpt: All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this.
+excerpt: Wal-Mart is one of the biggest companies in the world and the first one company in retail sales in the US. It is so big that it could be the 20th country comparing sales with GDP.
 header:
   overlay_image: https://images.unsplash.com/photo-1627953331399-64b87ec81313?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbWFydHxlbnwwfHwwfHx8MA%3D%3D
   teaser: https://images.unsplash.com/photo-1627953331399-64b87ec81313?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbWFydHxlbnwwfHwwfHx8MA%3D%3D
