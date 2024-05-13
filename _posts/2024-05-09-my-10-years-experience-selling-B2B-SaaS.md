@@ -18,6 +18,8 @@ header:
   teaser: https://media.licdn.com/dms/image/D4E12AQGQRsfv96JyAw/article-cover_image-shrink_720_1280/0/1714143693748?e=1720656000&v=beta&t=g4GxC00klRT4T2HKKVDKRYgx6lXhYc1AV2c1DSoOLIc
 ---
 
+![Cover Image](https://media.licdn.com/dms/image/D4E12AQGQRsfv96JyAw/article-cover_image-shrink_720_1280/0/1714143693748?e=1720656000&v=beta&t=g4GxC00klRT4T2HKKVDKRYgx6lXhYc1AV2c1DSoOLIc)
+
 **TL,DR:** It is harsh!
 
 ---
