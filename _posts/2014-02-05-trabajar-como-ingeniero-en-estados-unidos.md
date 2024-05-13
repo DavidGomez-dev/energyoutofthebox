@@ -50,4 +50,4 @@ La mayoría de los Estados reconocen las licencias de otros Estados, siempre y c
 No es necesario ser ciudadano americano o tener un visado de trabajo o de residencia (como la Green Card) para poder optar a la licencia de PE. Sin embargo, a efectos de identificación, se suele pedir el número de la seguridad social (Social Security Number – SSN) o el taxpayer identification number (ITIN). Para el Social Security, sí es necesario disponer de un visado que permita trabajar en el país, a diferencia del ITIN, que lo concede el Internal Revenue Service (IRS) a cualquier persona.
 A continuación, se va a comentar con más detalle los trámites y exámenes para la obtención de la licencia en California, aunque, como se ha explicado, es similar en el resto del país.
 
-Continúa leyendo en [Aprobar el Fundamentals of Engineering (FE) y ser Engineer in Training (EIT) en California](https://web.archive.org/web/20201202224254/http://www.energyoutofthebox.com/?p=544)
+Continúa leyendo en [Aprobar el Fundamentals of Engineering (FE) y ser Engineer in Training (EIT) en California](/aprobar-el-fundamentals-of-engineering-fe-y-ser-engineer-in-training-eit/)
