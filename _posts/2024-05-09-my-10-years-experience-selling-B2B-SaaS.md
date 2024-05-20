@@ -36,7 +36,7 @@ But hey, I am the same the person in all cases, having tried my best in all the 
 
 I have to admit that I have been more successful when I had a **good product** AND was granted with **freedom to follow my strategy** (in pricing, GTM, etc). On the contrary, I have seen sales colleagues (and myself too) frustrated and underperforming when they had to follow irreal company policies not fitted to the market.
 
-Selling B2B solutions in niche markets is not easy, especially in software. Since the enter barriers are low, there are usually **more products than required** by the market size (ending in consolidation). Moreover, what is really frustrating is that many clients (who are not software developers) make their own software. The arrogance of their engineers drive them badly. (see [Developing your own SW vs. Buying one](/blog/Developing-your-own-SW-vs-Buying-one/)). In addition, there is always a clunky, but totally free solution that they can use, and probably historically are using: Excel, the all-in-one-database-graphic-analytical-tool.
+Selling B2B solutions in niche markets is not easy, especially in software. Since the enter barriers are low, there are usually **more products than required** by the market size (ending in consolidation). Moreover, what is really frustrating is that many clients (who are not software developers) make their own software. The arrogance of their engineers drive them badly. (see [Developing your own SW vs. Buying one](/Developing-your-own-SW-vs-Buying-one/)). In addition, there is always a clunky, but totally free solution that they can use, and probably historically are using: Excel, the all-in-one-database-graphic-analytical-tool.
 
 So I have summarised my learnings over these years:
 

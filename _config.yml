@@ -18,14 +18,11 @@ email: davidgomezjim@gmail.com
 pwalink: #"https://app.DOMAIN.com/"
 googleplaylink: #"https://play.google.com/store/apps/details?id=com.DOMAIN.app.twa"
 appstorelink: #"/?ref=requestappstore"
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Providing startup founders, CEOs and HR sales expertise and sales execution for revenue expansion and growth in Europe and US.
 twitter_username: TwitterUsername
 github_username: username
 minimal_mistakes_skin: contrast #default
-teaser: "/assets/images/500x300.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: "/assets/images/500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -42,7 +39,7 @@ facebook:
   username: FacebookUsername
   app_id:
   publisher:
-og_image: /assets/images/500x300.jpeg
+og_image: /assets/images/featured.jpg
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -130,6 +127,12 @@ footer:
     - label: "Sitemap"
       icon: "fas fa-fw fa-sitemap"
       url: "/sitemap.xml"
+    - label: "Terms"
+      icon: "fas fa-fw fa-file-signature"
+      url: "/terms/"
+    - label: "Privacy"
+      icon: "fas fa-fw fa-user-secret"
+      url: "/privacy/"
     - label: #"GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
