@@ -12,7 +12,7 @@ tags:
   - English
 classes: wide theme-dark
 date: 2024-05-09 10:46:57 +0100
-excerpt: In the last 10 years, I have mainly paid my bills and splurges out of doing sales and business development for startups selling SaaS software and IoT hardware for B2B niche markets (infrastructure and renewable energy).
+excerpt: In the last 10 years, I have mainly paid my bills and splurges out of doing sales and business development for startups selling SaaS software...
 header:
   overlay_image: https://media.licdn.com/dms/image/D4E12AQGQRsfv96JyAw/article-cover_image-shrink_720_1280/0/1714143693748?e=1720656000&v=beta&t=g4GxC00klRT4T2HKKVDKRYgx6lXhYc1AV2c1DSoOLIc
   teaser: https://media.licdn.com/dms/image/D4E12AQGQRsfv96JyAw/article-cover_image-shrink_720_1280/0/1714143693748?e=1720656000&v=beta&t=g4GxC00klRT4T2HKKVDKRYgx6lXhYc1AV2c1DSoOLIc
