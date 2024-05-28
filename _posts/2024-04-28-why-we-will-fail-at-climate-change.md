@@ -13,8 +13,8 @@ classes: wide theme-dark
 date: 2024-04-28 10:46:57 +0100
 excerpt: Our society is locked into a high-energy consumption lifestyle that few are willing to abandon. Although efforts are being made to reduce...
 header:
-  overlay_image: https://media.licdn.com/dms/image/D4E12AQEFDapxYhHD5g/article-cover_image-shrink_720_1280/0/1715087020655?e=1722470400&v=beta&t=wEB6JuK6RSQGEo2Vj2JfdmyFr754Y-RM19HAT72XtuY
-  teaser: https://media.licdn.com/dms/image/D4E12AQEFDapxYhHD5g/article-cover_image-shrink_720_1280/0/1715087020655?e=1722470400&v=beta&t=wEB6JuK6RSQGEo2Vj2JfdmyFr754Y-RM19HAT72XtuY
+  overlay_image: /assets/images/climatechange.png
+  teaser: /assets/images/climatechange.png
 ---
 
 ![NY with dikes. Image from Extrapolations. ©️ Apple TV](https://media.licdn.com/dms/image/D4E12AQEFDapxYhHD5g/article-cover_image-shrink_720_1280/0/1715087020655?e=1722470400&v=beta&t=wEB6JuK6RSQGEo2Vj2JfdmyFr754Y-RM19HAT72XtuY)
@@ -49,6 +49,7 @@ Just to put this number in context, we, as humans, **were only able to do that i
 Thanks to the **Kaya Identity**, we can understand where the Carbon is actually coming from and what we can expect in future. Understanding the Kaya Identity not only sheds light on the sources of emissions but also helps us see how our daily choices and broader societal behaviours amplify these effects. This brings us to an important aspect—our lifestyles. This is the Identity formulation:
 
 ![Developed by the Japanese economist Yoichi Kaya in 1997](https://media.licdn.com/dms/image/D5612AQHwupShg0BgtA/article-inline_image-shrink_1500_2232/0/1714646861254?e=1722470400&v=beta&t=cldFJCiP5J-CopfKtIkRkx-wLYkFFLHcyGg-PheVAk8)
+
 _Developed by the Japanese economist Yoichi Kaya in 1997_
 
 Thus, Green-house emissions are directly proportional to **Population**, **GDP per Capita**, **Energy Intensity** (how much energy do we need) and **Carbon Intensity** (how much Carbon our energy consumption emits). How these components have evolved in the last decades is in the image below:
