@@ -42,23 +42,28 @@ You also need to believe in your idea to the extent that you are confident you w
 
 ## What Have I Tried So Far?
 
-**DCM Ingenieros**
+### DCM Ingenieros
+
 Right after graduating, I started a consulting and engineering firm with two college friends. We offered engineering services to practice what we had learned in school. DCM Ingenieros (David, Cesar, and Miguel) created a simple webpage and placed some free ads. Surprisingly, we got our first client, designing mechanical parts in AutoCAD and some physical products with electronics (those parts ended up being on a research particle accelerator!). However, only two of the three partners actually work, and later I was left alone when the other pursued his career as a civil servant. I gave up a few months later and moved to the US.
 
-**LifexpandUSA**
+### LifexpandUSA
+
 In the US, after some years, I tried a consultancy for people wanting to move to the US, offering relocation and HR services. I did this with my partner and later wife. We conducted around a hundred consultations, which helped pay for our wedding in Hawaii. Although not scalable, it led to a book we published later, [“We No Speak Americano”](https://www.amazon.com/We-No-Speak-Americano-Studying-ebook/dp/B0C3WDR9H9/), which is still available on Amazon and has sold around 500 copies, which helped with our home downpayment.
 
-**Gentech Analytics**
+### Gentech Analytics
+
 Just before moving back to Spain, I got involved in a genetic testing business with my father-in-law. Mixing family and business was risky, but our partnership was initially successful. We conducted around 500 genetic tests in Spain, averaging 200 Euros per test. We even started talking to potential investors, but family disputes unrelated to the business led unfortunately to our split.
 
-**tailored:systems**
+### tailored:systems
+
 Some years later, I made my most serious attempt. After years in the IoT and infrastructure market, I had a strong network and deep knowledge in the geotechnical monitoring niche. I planned to start a business distributing under-marketed technologies from other parts of the world. During the pandemic, I got laid off and decided it was the right time. With two other partners providing technical software knowledge and marketing, we founded Tailored: Systems. We imported, distributed, and provided IoT devices for monitoring purposes, generating over 150k Euros in the first year with a decent margin. Without external investment, all the money liabilities were against our personal money, which added stress to the decisions.
 
 However, many devices failed prematurely, and failed badly, leading to client dissatisfaction and negative cash flow. I received 8:00 am calls from angry clients threatening lawsuits. This, combined with the post-pandemic depression and a mid-life crisis, led to severe anxiety and poor mental health. My partners did not help much, and I ended up doing almost everything myself (sales, support, marketing, fulfilling, delivering, invoicing, and almost accounting too). They were (as on other occasions) partners for the good, but not for the bad, being like passengers of a taxi (driven by me) ready to hop off if the destination was not wealthy enough.
 
 I felt very alone and without support from my wife either. So I decided, helped by a therapist, to return to full-time employment for my mental health. I let the company slowly wind down, but honoring our remaining contracts.
 
-**Mobile Apps**
+### Mobile Apps
+
 Apart from that, I have tried my luck with web pages and mobile apps. These projects often serve as a way to relax my engineering problem-solving urges and learn new technologies. I have become a decent full-stack software developer, capable of creating back-end and front-end solutions and mobile apps shipped on the markets, with in-app purchases and ads. So far, I have developed:
 
 - [Energia.guru](https://www.energia.guru/): A service for informing about the cheapest and most expensive hours for electricity in Spain. The most successful with 2000 users and 100 Euros MMR.
@@ -77,4 +82,4 @@ Entrepreneurship is like a powerful drug. After some years of rehabilitation, a 
 
 ---
 
-**Are you a founder or an entrepreneur struggling with sales strategy or product market fit in the Software space?**[Follow me](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ingenierodavidgomez) or drop a comment below👇for more strategies that could steer your venture towards sustained growth.
+**Are you a founder or an entrepreneur struggling with sales strategy or product market fit in the Software space?**[Follow me](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ingenierodavidgomez) for more strategies that could steer your venture towards sustained growth.
