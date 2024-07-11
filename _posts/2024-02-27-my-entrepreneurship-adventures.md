@@ -13,11 +13,11 @@ classes: wide theme-dark
 date: 2024-02-27 10:46:57 +0100
 excerpt: I have always dreamed of making money independently. I have tried various entrepreneurial ventures, resulting in a career that mixes...
 header:
-  overlay_image: https://media.licdn.com/dms/image/D4E12AQFJ5k3hG4c0IQ/article-cover_image-shrink_720_1280/0/1719480618643?e=1724889600&v=beta&t=-ixp180oz9rZOr_BJirdooQ-t965RrBcBzRWO22e3Ik
-  teaser: https://media.licdn.com/dms/image/D4E12AQFJ5k3hG4c0IQ/article-cover_image-shrink_720_1280/0/1719480618643?e=1724889600&v=beta&t=-ixp180oz9rZOr_BJirdooQ-t965RrBcBzRWO22e3Ik
+  overlay_image: /assets/images/entrepreneur.jpeg
+  teaser: /assets/images/entrepreneur.jpeg
 ---
 
-![Will I get to the diamonds someday?](https://media.licdn.com/dms/image/D4E12AQFJ5k3hG4c0IQ/article-cover_image-shrink_720_1280/0/1719480618643?e=1724889600&v=beta&t=-ixp180oz9rZOr_BJirdooQ-t965RrBcBzRWO22e3Ik)
+![Will I get to the diamonds someday?](/assets/images/entrepreneur.jpeg)
 _Will I get to the diamonds someday?_
 
 # My Entrepreneurship Adventures

@@ -13,11 +13,11 @@ classes: wide theme-dark
 date: 2024-03-13 10:46:57 +0100
 excerpt: Our society is locked into a high-energy consumption lifestyle that few are willing to abandon. Although efforts are being made to reduce...
 header:
-  overlay_image: https://media.licdn.com/dms/image/D5612AQEUIv0lSnDoOA/article-cover_image-shrink_720_1280/0/1716475470207?e=1723680000&v=beta&t=bjv9z-vXZw8tgiVk2KBr3uG3DwVbWJFJeyN5khaR4r0
-  teaser: https://media.licdn.com/dms/image/D5612AQEUIv0lSnDoOA/article-cover_image-shrink_720_1280/0/1716475470207?e=1723680000&v=beta&t=bjv9z-vXZw8tgiVk2KBr3uG3DwVbWJFJeyN5khaR4r0
+  overlay_image: /assets/images/maslow-AM.jpeg
+  teaser: /assets/images/maslow-AM.jpeg
 ---
 
-![Asset Manager looking at his portfolio](https://media.licdn.com/dms/image/D5612AQEUIv0lSnDoOA/article-cover_image-shrink_720_1280/0/1716475470207?e=1723680000&v=beta&t=bjv9z-vXZw8tgiVk2KBr3uG3DwVbWJFJeyN5khaR4r0)
+![Asset Manager looking at his portfolio](/assets/images/maslow-AM.jpeg)
 _Asset Manager looking at his portfolio_
 
 # The Asset Manager Maslow Pyramid

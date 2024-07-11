@@ -13,11 +13,11 @@ classes: wide theme-dark
 date: 2024-04-28 10:46:57 +0100
 excerpt: Our society is locked into a high-energy consumption lifestyle that few are willing to abandon. Although efforts are being made to reduce...
 header:
-  overlay_image: /assets/images/climatechange.png
-  teaser: /assets/images/climatechange.png
+  overlay_image: /assets/images/will-fail-climate-change.png
+  teaser: /assets/images/will-fail-climate-change.png
 ---
 
-![NY with dikes. Image from Extrapolations. ©️ Apple TV](https://media.licdn.com/dms/image/D4E12AQEFDapxYhHD5g/article-cover_image-shrink_720_1280/0/1715087020655?e=1722470400&v=beta&t=wEB6JuK6RSQGEo2Vj2JfdmyFr754Y-RM19HAT72XtuY)
+![NY with dikes. Image from Extrapolations. ©️ Apple TV](/assets/images/will-fail-climate-change.png)
 _NY with dikes. Image from Extrapolations. ©️ Apple TV_
 
 ## Why we will fail at climate change
