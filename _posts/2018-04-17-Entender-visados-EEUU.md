@@ -10,13 +10,13 @@ classes: wide theme-dark
 date: 2018-04-17 10:46:57 +0100
 excerpt: Dependiendo del tiempo que quieras estar en Estados Unidos y lo que vayas a hacer allí, es muy posible que necesites un visado.
 header:
-  overlay_image: https://media.licdn.com/dms/image/C4E12AQFD2wVAEhJp-w/article-cover_image-shrink_423_752/0/1523950250901?e=1720656000&v=beta&t=gEFOXHdp9QOIX181N5U6zItOM78DqNcll3cIQ70iSGw
-  teaser: https://media.licdn.com/dms/image/C4E12AQFD2wVAEhJp-w/article-cover_image-shrink_423_752/0/1523950250901?e=1720656000&v=beta&t=gEFOXHdp9QOIX181N5U6zItOM78DqNcll3cIQ70iSGw
+  overlay_image: /assets/images/visados.jpeg
+  teaser: /assets/images/visados.jpeg
 ---
 
 # Entender los visados para EEUU
 
-![Cartoon by Ron Schward](https://media.licdn.com/dms/image/C4E12AQFD2wVAEhJp-w/article-cover_image-shrink_423_752/0/1523950250901?e=1720656000&v=beta&t=gEFOXHdp9QOIX181N5U6zItOM78DqNcll3cIQ70iSGw)
+![Cartoon by Ron Schward](/assets/images/visados.jpeg)
 
 Dependiendo del tiempo que quieras estar en Estados Unidos y lo que vayas a hacer allí, es muy posible que necesites un visado.
 

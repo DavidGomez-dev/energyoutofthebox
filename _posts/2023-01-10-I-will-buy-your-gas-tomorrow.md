@@ -13,13 +13,13 @@ classes: wide theme-dark
 date: 2023-01-10 10:46:57 +0100
 excerpt: Our world and society have changed in the two last centuries more than in the two last millennia. The innovations born at the Industrial Revolution have modified our way of living probably only comparable to the Neolithic Revolution, when humans leaved their nomads lives to settle in cozier places thanks to agriculture.
 header:
-  overlay_image: https://media.licdn.com/dms/image/D5612AQF-VGInxg2Mbg/article-cover_image-shrink_720_1280/0/1673361444370?e=1720656000&v=beta&t=gWabfY_D4byXUak32Y_hj1l4F0mplEfuF9Kp1BoEPLg
-  teaser: https://media.licdn.com/dms/image/D5612AQF-VGInxg2Mbg/article-cover_image-shrink_720_1280/0/1673361444370?e=1720656000&v=beta&t=gWabfY_D4byXUak32Y_hj1l4F0mplEfuF9Kp1BoEPLg
+  overlay_image: /assets/images/buy-gas.jpeg
+  teaser: /assets/images/buy-gas.jpeg
 ---
 
 # I will buy your gas tomorrow
 
-![Cover Image](https://media.licdn.com/dms/image/D5612AQF-VGInxg2Mbg/article-cover_image-shrink_720_1280/0/1673361444370?e=1720656000&v=beta&t=gWabfY_D4byXUak32Y_hj1l4F0mplEfuF9Kp1BoEPLg)  
+![Cover Image](/assets/images/buy-gas.jpeg)  
 **(c) Erik Mclean on Unsplash**
 
 ## Introduction

@@ -13,13 +13,13 @@ classes: wide theme-dark
 date: 2018-04-17 10:46:57 +0100
 excerpt: A falta de los últimos números tras la locura del cierre de 2017, puedo decir que hemos multiplicado por más de x10 la ventas en USA en sólo un año, rondando el millón de euros entre USA y Canadá.
 header:
-  overlay_image: https://media.licdn.com/dms/image/C4D12AQGiGGoE6L9l7Q/article-cover_image-shrink_720_1280/0/1520920053042?e=1720656000&v=beta&t=vpH6g29MTSpryaVv3VGfeKDkJ0gWt1pe9fjZP7N9_cM
-  teaser: https://media.licdn.com/dms/image/C4D12AQGiGGoE6L9l7Q/article-cover_image-shrink_720_1280/0/1520920053042?e=1720656000&v=beta&t=vpH6g29MTSpryaVv3VGfeKDkJ0gWt1pe9fjZP7N9_cM
+  overlay_image: /assets/images/petado.jpeg
+  teaser: /assets/images/petado.jpeg
 ---
 
 # Cómo hemos "petado" las ventas en USA
 
-![Cómo hemos "petado" las ventas en USA](https://media.licdn.com/dms/image/C4D12AQGiGGoE6L9l7Q/article-cover_image-shrink_720_1280/0/1520920053042?e=1720656000&v=beta&t=vpH6g29MTSpryaVv3VGfeKDkJ0gWt1pe9fjZP7N9_cM)
+![Cómo hemos "petado" las ventas en USA](/assets/images/petado.jpeg)
 
 A falta de los últimos números tras la locura del cierre de 2017, puedo decir que hemos multiplicado por más de x10 la ventas en USA en sólo un año, rondando el millón de euros entre USA y Canadá. Es algo increíble para una empresa que hace un año no llegaba a los 50 empleados y que sólo había vendido unos pocos miles de euros en el país americano cuando cogí la cuenta a mediados de 2016.
 

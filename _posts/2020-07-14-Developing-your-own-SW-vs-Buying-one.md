@@ -14,13 +14,13 @@ classes: wide theme-dark
 date: 2020-07-14 10:46:57 +0100
 excerpt: Should you need to digitalize a process or managing some kind of data, you may be tempted to develop your own tool, since, nowadays, the entrance barriers and learning curves are lower than ever.
 header:
-  overlay_image: https://media.licdn.com/dms/image/C4D12AQGAeollUHZ3mA/article-cover_image-shrink_720_1280/0/1594206679317?e=1720656000&v=beta&t=1Qk5i51HmrddTIDGRc2h0VQVicE0K2RMw3BUfjqTyOE
-  teaser: https://media.licdn.com/dms/image/C4D12AQGAeollUHZ3mA/article-cover_image-shrink_720_1280/0/1594206679317?e=1720656000&v=beta&t=1Qk5i51HmrddTIDGRc2h0VQVicE0K2RMw3BUfjqTyOE
+  overlay_image: /assets/images/sw.jpeg
+  teaser: /assets/images/sw.jpeg
 ---
 
 # Developing your own SW vs. Buying one
 
-![Cover Image](https://media.licdn.com/dms/image/C4D12AQGAeollUHZ3mA/article-cover_image-shrink_720_1280/0/1594206679317?e=1720656000&v=beta&t=1Qk5i51HmrddTIDGRc2h0VQVicE0K2RMw3BUfjqTyOE)
+![Cover Image](/assets/images/sw.jpeg)
 
 Should you need to digitalize a process or managing some kind of data, you may be tempted to develop your own tool, since, nowadays, the entrance barriers and learning curves are lower than ever. Well, one thing I have learned selling SaaS and as a hobbyist developer, is that there is a **BIG difference between doing software and doing GOOD software**.
 

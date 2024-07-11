@@ -16,13 +16,13 @@ classes: wide theme-dark
 date: 2020-07-14 10:46:57 +0100
 excerpt: Las energías renovables en España en los últimos 15 años tienen para una historia digna de una serie de ficción. En un resumen muy simple, cuando se empezó a incentivar la Fotovoltaica, su retribución era tan alta que creo una burbuja de instalación de plantas, cuya explosión ha tenido consecuencias políticas y legales por muchos años.
 header:
-  overlay_image: https://media.licdn.com/dms/image/C4D12AQHuYQH2WUZqlQ/article-cover_image-shrink_720_1280/0/1598542936961?e=1720656000&v=beta&t=mE6pC9yQWeXGSOrIiUQhsZ8GnvWA1MKc5MFfSLbJY8A
-  teaser: https://media.licdn.com/dms/image/C4D12AQHuYQH2WUZqlQ/article-cover_image-shrink_720_1280/0/1598542936961?e=1720656000&v=beta&t=mE6pC9yQWeXGSOrIiUQhsZ8GnvWA1MKc5MFfSLbJY8A
+  overlay_image: /assets/images/solarPV.jpeg
+  teaser: /assets/images/solarPV.jpeg
 ---
 
 # Cómo optimizar el rendimiento de las plantas PV antiguas del régimen especial
 
-![Optimiza el rendimiento monitoreando los contadores](https://media.licdn.com/dms/image/C4D12AQHuYQH2WUZqlQ/article-cover_image-shrink_720_1280/0/1598542936961?e=1720656000&v=beta&t=mE6pC9yQWeXGSOrIiUQhsZ8GnvWA1MKc5MFfSLbJY8A "Optimiza el rendimiento monitoreando los contadores")
+![Optimiza el rendimiento monitoreando los contadores](/assets/images/solarPV.jpeg "Optimiza el rendimiento monitoreando los contadores")
 
 Las energías renovables en España en los últimos 15 años tienen para una historia digna de una serie de ficción. En un resumen muy simple, cuando se empezó a incentivar la Fotovoltaica, su retribución era tan alta que creo una burbuja de instalación de plantas, cuya explosión ha tenido consecuencias políticas y legales por muchos años.
 

@@ -14,13 +14,13 @@ classes: wide theme-dark
 date: 2020-07-14 10:46:57 +0100
 excerpt: The business of Geotechnical Monitoring is carried by a couple of dozens of companies globally, who fight each other for the supremacy and survival, like Kingdoms for their Thrones.
 header:
-  overlay_image: https://media.licdn.com/dms/image/C5612AQE7e3Pmq2AJVw/article-cover_image-shrink_720_1280/0/1596539780018?e=1720656000&v=beta&t=CMl8OULGux75zqP0xN2AojMC2KjCef7wCLUHbHlNoBE
-  teaser: https://media.licdn.com/dms/image/C5612AQE7e3Pmq2AJVw/article-cover_image-shrink_720_1280/0/1596539780018?e=1720656000&v=beta&t=CMl8OULGux75zqP0xN2AojMC2KjCef7wCLUHbHlNoBE
+  overlay_image: /assets/images/game-of-thrones.jpeg
+  teaser: /assets/images/game-of-thrones.jpeg
 ---
 
 # The Geotechnical Game of Thrones
 
-![Ned Stark holding an inclinometer](https://media.licdn.com/dms/image/C5612AQE7e3Pmq2AJVw/article-cover_image-shrink_720_1280/0/1596539780018?e=1720656000&v=beta&t=CMl8OULGux75zqP0xN2AojMC2KjCef7wCLUHbHlNoBE)
+![Ned Stark holding an inclinometer](/assets/images/game-of-thrones.jpeg)
 
 The business of Geotechnical Monitoring is carried by a couple of dozens of companies globally, who fight each other for the supremacy and survival, like Kingdoms for their Thrones.
 
