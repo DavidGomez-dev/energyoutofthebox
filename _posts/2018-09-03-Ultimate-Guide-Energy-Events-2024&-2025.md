@@ -32,7 +32,7 @@ Attending these events is essential for **networking with industry leaders**, di
 
 If you’re looking for the **complete list** of energy events and want to sync them with your calendar, simply **drop a comment on this linkedin post below** 👇, and I’ll send you the full Excel list and iCal directly!
 
-https://www.linkedin.com/posts/ingenierodavidgomez_renewableenergy-solarevents-cleanenergy-activity-7246494880183586816-FIZR
+[Comment this LinkedIn post to get the list!](https://www.linkedin.com/posts/ingenierodavidgomez_renewableenergy-solarevents-cleanenergy-activity-7246494880183586816-FIZR)
 
 ### Featured Event Categories:
 
@@ -64,6 +64,6 @@ The clean energy revolution is here, and **2025** is shaping up to be a pivotal 
 
 🌟 Ready to make 2025 the year of clean energy? **Comment on the linkedin post below**, and I’ll send you the full **Excel list and iCal** for easy access to all these events. Let’s take action now and accelerate the global shift toward sustainability.
 
-https://www.linkedin.com/posts/ingenierodavidgomez_renewableenergy-solarevents-cleanenergy-activity-7246494880183586816-FIZR
+[Comment this LinkedIn post to get the list!](https://www.linkedin.com/posts/ingenierodavidgomez_renewableenergy-solarevents-cleanenergy-activity-7246494880183586816-FIZR)
 
 #RenewableEnergy #SolarEvents #CleanEnergy #EnergyStorage #Networking #Sustainability #SolarFinance #ClimateAction #EventPlanning #Decarbonization #GreenEnergyFuture
