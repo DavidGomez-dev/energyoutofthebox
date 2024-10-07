@@ -14,7 +14,7 @@ tags:
   - Spanish
 classes: wide theme-dark
 date: 2020-07-14 10:46:57 +0100
-excerpt: Las energías renovables en España en los últimos 15 años tienen para una historia digna de una serie de ficción. En un resumen muy simple, cuando se empezó a incentivar la Fotovoltaica, su retribución era tan alta que creo una burbuja de instalación de plantas, cuya explosión ha tenido consecuencias políticas y legales por muchos años.
+excerpt: Las energías renovables en España en los últimos 15 años tienen para una historia digna de una serie de ficción. En un resumen...
 header:
   overlay_image: /assets/images/solarPV.jpeg
   teaser: /assets/images/solarPV.jpeg
