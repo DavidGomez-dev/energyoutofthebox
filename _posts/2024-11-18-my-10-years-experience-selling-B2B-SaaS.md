@@ -11,7 +11,7 @@ tags:
   - SaaS
   - English
 classes: wide theme-dark
-date: 2024-05-09 10:46:57 +0100
+date: 2024-11-18 10:46:57 +0100
 excerpt: In the last 10 years, I have mainly paid my bills and splurges out of doing sales and business development for startups selling SaaS software...
 header:
   overlay_image: /assets/images/10-years-selling-saas.jpeg
