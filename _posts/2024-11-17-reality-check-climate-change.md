@@ -7,12 +7,12 @@ tags:
   - Opinion
   - Business
   - Infrastructure
-  - Sales
-  - SaaS
+  - Climate Change
+  - Sustainability
   - English
 classes: wide theme-dark
-date: 2024-05-09 10:46:57 +0100
-excerpt: In the last 10 years, I have mainly paid my bills and splurges out of doing sales and business development for startups selling SaaS software...
+date: 2024-11-17 10:46:57 +0100
+excerpt: As a society, we find ourselves at the center of a **global crisis of our own making**. Our profound impact on the climate threatens future...
 header:
   overlay_image: /assets/images/reality-climate-change.png
   teaser: /assets/images/reality-climate-change.png
