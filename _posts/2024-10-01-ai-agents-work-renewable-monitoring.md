@@ -13,8 +13,8 @@ classes: wide theme-dark
 date: 2024-10-01 10:46:57 +0100
 excerpt: After many years of experience in the Asset Performance Management (APM) field, one key lesson has become clear; without a reliable...
 header:
-  overlay_image: /assets/images/mcp.jpg
-  teaser: /assets/images/mcp.jpg
+  overlay_image: /assets/images/mcp.png
+  teaser: /assets/images/mcp.png
 ---
 
 # When will AI Agents work for Renewable Monitoring?
