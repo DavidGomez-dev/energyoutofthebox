@@ -17,8 +17,6 @@ header:
   teaser: /assets/images/mcp.jpg
 ---
 
-![Cover Image](/assets/images/mcp.jpg)
-
 # When will AI Agents work for Renewable Monitoring?
 
 Wouldn't it be beautiful if we could ask our solar datalogger or SCADA something like, _"Hey, how much have I produced this month?"_ in natural language?
